@@ -1,0 +1,3 @@
+[submodule "Bronco"]
+	path = Bronco
+	url = git@github.com:GKjohns/Bronco.git
